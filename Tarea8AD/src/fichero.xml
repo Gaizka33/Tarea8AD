@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Alumnos>
+    <Alumno nia="1">
+        <nombre>Alex</nombre>
+        <apellidos>Perez</apellidos>
+        <genero>M</genero>
+        <fechadenacimiento>2007-06-02</fechadenacimiento>
+        <ciclo>Maricon</ciclo>
+        <curso>burrologia</curso>
+        <grupo>primero</grupo>
+    </Alumno>
+    <Alumno nia="2">
+        <nombre>Carlos</nombre>
+        <apellidos>Sanchez</apellidos>
+        <genero>F</genero>
+        <fechadenacimiento>2001-07-01</fechadenacimiento>
+        <ciclo>del los cojones largos</ciclo>
+        <curso>informatica con maiki</curso>
+        <grupo>segundo</grupo>
+    </Alumno>
+</Alumnos>
